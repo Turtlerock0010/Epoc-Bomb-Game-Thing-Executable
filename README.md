@@ -10,7 +10,7 @@ To get this program to work on Windows follow this
 
 ## Mac OS
 ok so inorder to get this program to work on mac os you need to follow this list
-1. download the file (EGBT Executable 17) from github
+1. download the file (EGBT 23 Mac OS) from github
 2. extract the files
 3. go into the file until you see a file called main
 4. follow this tutorial to convert the main file into a unix distributable https://www.youtube.com/watch?v=NOW5dyA_JgY
